@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ITANIHUB PAGES
 
 You can use the [editor on GitHub](https://github.com/Omar-itani-0/PersonalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
